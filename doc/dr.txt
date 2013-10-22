@@ -1,0 +1,24 @@
+ex06
+
+8/10
+
+(-2)
+Use two Dart files, one to define all functions, the other to prepare function arguments.
+The print function may be used only in the prepare functions. Follow Dart Style Guide.
+les fonctions font le travail; le principal prépare le contexte,
+il appelle les fonctions et imprime les résultats.
+
+Le mot est un Palindrome
+quel mot ?
+
+est de -11 jours.
+-11 ?
+
+Question 3
+D
+pour la quelle note ?
+
+
+
+
+
